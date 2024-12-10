@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Card Title",
+    "description": "This is a card description. It can be short or it can be long.",
+    "image": "https://picsum.photos/id/32/300/200"
+  },
+  {
+    "id": 2,
+    "title": "Card Title",
+    "description": "",
+    "image": "https://picsum.photos/id/38/300/200"
+  },
+  {
+    "id": 3,
+    "title": "Card Title",
+    "description": "This is a card description. It can be short or it can be long.",
+    "image": "https://picsum.photos/id/41/300/200"
+  },
+  {
+    "id": 4,
+    "title": "Card Title",
+    "description": "This is a card description. It can be short or it can be long.",
+    "image": "https://picsum.photos/id/49/300/200"
+  }
+]
